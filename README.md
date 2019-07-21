@@ -1,3 +1,8 @@
+## Git Finder
+The app to find github users
+
+https://art-git-finder.netlify.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
